@@ -2,7 +2,8 @@ Hello, my name is Benjamin Carrel.
 
 PhD student at the University of Geneva in applied mathematics.
 
-You can reach me at benjamin.carrel@outlook.com.
+Link to my website: https://benjamincarrel.github.io
+
 
 <!---
 BenjaminCarrel/BenjaminCarrel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
